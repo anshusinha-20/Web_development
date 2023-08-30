@@ -1,0 +1,217 @@
+body {
+    background: rgb(134, 134, 134);
+    font-family: 'Nova Mono', monospace;
+    width: 100%;
+}
+.parent-div {
+    background: rgb(83, 83, 83);
+    margin: 0 auto;
+    width: 50vw;
+    height: 50vw;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.game-text p {
+    color: white;
+    font-size: 60px;
+}
+
+.rows {
+    color: white;
+}
+
+.row1 {
+    display: flex;
+    
+}
+
+.row2 {
+    display: flex;
+    margin-top: 50px;
+}
+
+.row3 {
+    display: flex;
+    margin-top: 50px;
+}
+
+.row1-1 {
+    background-color: grey;
+    border-radius: 15px;
+    height: 140px;
+    width: 140px;
+    margin-left: 100px;
+}
+
+.row1-1:hover {
+    transition: 0.5s;
+    background: black;
+}
+
+.row1-2 {
+    background-color: grey;
+    border-radius: 15px;
+    height: 140px;
+    width: 140px;
+    margin: 0 auto;
+}
+
+.row1-2:hover {
+    transition: 0.5s;
+    background: black;
+}
+
+.row1-3 {
+    background-color: grey;
+    border-radius: 15px;
+    height: 140px;
+    width: 140px;
+    margin-right: 100px;
+}
+
+.row1-3:hover {
+    transition: 0.5s;
+    background: black;
+}
+
+.row2-4 {
+    background-color: grey;
+    border-radius: 15px;
+    height: 140px;
+    width: 140px;
+    margin-left: 100px;
+}
+
+.row2-4:hover {
+    transition: 0.5s;
+    background: black;
+}
+
+.row2-5 {
+    background-color: grey;
+    border-radius: 15px;
+    height: 140px;
+    width: 140px;
+    margin: 0 auto;
+}
+
+.row2-5:hover {
+    transition: 0.5s;
+    background: black;
+}
+
+.row2-6 {
+    background-color: grey;
+    border-radius: 15px;
+    height: 140px;
+    width: 140px;
+    margin-right: 100px;
+}
+
+.row2-6:hover {
+    transition: 0.5s;
+    background: black;
+}
+
+.row3-7 {
+    background-color: grey;
+    border-radius: 15px;
+    height: 140px;
+    width: 140px;
+    margin-left: 100px;
+}
+
+.row3-7:hover {
+    transition: 0.5s;
+    background: black;
+}
+
+.row3-8 {
+    background-color: grey;
+    border-radius: 15px;
+    height: 140px;
+    width: 140px;
+    margin: 0 auto;
+}
+
+.row3-8:hover {
+    transition: 0.5s;
+    background: black;
+}
+
+.row3-9 {
+    background-color: grey;
+    border-radius: 15px;
+    height: 140px;
+    width: 140px;
+    margin-right: 100px;
+}
+
+.row3-9:hover {
+    transition: 0.5s;
+    background: black;
+}
+
+.text1 {
+    font-size: 80px;
+    position: absolute;
+    top: 135px;
+    left: 515px;
+}
+
+.text2 {
+    font-size: 80px;
+    position: absolute;
+    top: 135px;
+    left: 705px;
+}
+
+.text3 {
+    font-size: 80px;
+    position: absolute;
+    top: 135px;
+    left: 895px;
+}
+
+.text4 {
+    font-size: 80px;
+    position: absolute;
+    top: 325px;
+    left: 515px;
+}
+
+.text5 {
+    font-size: 80px;
+    position: absolute;
+    top: 325px;
+    left: 705px;
+}
+
+.text6 {
+    font-size: 80px;
+    position: absolute;
+    top: 325px;
+    left: 895px;
+}
+
+.text7 {
+    font-size: 80px;
+    position: absolute;
+    top: 515px;
+    left: 515px;
+}
+
+.text8 {
+    font-size: 80px;
+    position: absolute;
+    top: 515px;
+    left: 705px;
+}
+
+.text9 {
+    font-size: 80px;
+    position: absolute;
+    top: 515px;
+    left: 895px;
+}
