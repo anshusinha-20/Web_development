@@ -1,0 +1,12 @@
+section h1 {
+    width: 80%;
+    height: 700px;
+    background-image:url("https://images.unsplash.com/photo-1623527448089-51c34d011d15?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxNXx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60");
+    margin: 0 auto;
+    background-size: contain;
+    background-position: center;
+}
+h1{
+    font-size: 141px;
+    color: blanchedalmond;
+}

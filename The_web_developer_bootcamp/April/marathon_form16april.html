@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Marathon Form</title>
+    <link rel="stylesheet" href="style16april.css">
+</head>
+
+<body>
+    <h1>Race Registration!</h1>
+    <form action="/marathon">
+        <p>
+            <label for="firstname">First name:</label>
+            <input id="firstname" type="text" name="firstname" required>
+            <label for="lastname">Last name:</label>
+            <input type="text" name="lastname" id="lastname">
+        </p>
+        <p>
+            Select a race:
+        </p>
+        <p>
+            <label for="5k">Fun Run 5k</label>
+            <input type="radio" name="run" id="5k" value="5k">
+        </p>
+        <p>
+            <label for="h_marathon">Half Marathon</label>
+            <input type="radio" name="run" id="h_marathon" value="h_marathon">
+        </p>
+        <p>
+            <label for="f_marathon">Full Marathon</label>
+            <input type="radio" name="run" id="f_marathon" value="f_marathon">
+        </p>
+        <p>
+            <label for="email">Email:</label>
+            <input type="email" name="email" id="email" required>
+            <label for="password">Password:</label>
+            <input type="password" name="password" id="password">
+        </p>
+        <p>
+            <label for="sag">School Age Group:</label>
+            <select name="sag" id="sag">
+                <option value="under 10">under 10</option>
+                <option value="10-12">10-12</option>
+                <option value="12-14">12-14</option>
+                <option value="14-16">14-16</option>
+                <option value="16-18">16-18</option>
+                <option value="18-20">18-20</option>
+            </select>
+
+        </p>
+        <p><button>Register</button></p>
+    </form>
+</body>
+
+</html>

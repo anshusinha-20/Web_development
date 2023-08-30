@@ -1,0 +1,27 @@
+section div {
+    width: 141px;
+    height: 141px;
+    background-color: darkgrey;
+    margin: 20px;
+    transition: margin-left 7s;
+}
+section:hover div {
+    margin-left: 1000px;
+    background-color: slategray;
+}
+div:nth-of-type(1) {
+    transition-timing-function: ease;
+    background-color: darkseagreen;
+}
+div:nth-of-type(2) {
+    transition-timing-function: ease-in;
+    background-color: darkslategray;
+}
+div:nth-of-type(3) {
+    transition-timing-function: ease-out;
+    background-color: firebrick;
+}
+div:nth-of-type(4) {
+    transition-timing-function: ease-in-out;
+    background-color: gold;
+}

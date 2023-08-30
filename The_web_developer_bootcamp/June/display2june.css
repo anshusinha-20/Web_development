@@ -1,0 +1,19 @@
+h1 {
+    background-color: wheat;
+    border: 5px solid antiquewhite;
+    width: 300px;
+    height: 41px;
+    display: block;
+}
+#s1,#s2 {
+    background-color: bisque;
+    border: 5px dashed chartreuse;
+    display: block;
+}
+#card {
+    background-color: floralwhite;
+    border: 5px solid indianred;
+    width: 141px;
+    padding: 5px;
+    display: inline-block;
+}

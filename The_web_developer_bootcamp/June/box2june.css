@@ -1,0 +1,76 @@
+#d1 {
+    width: 414px;
+    height: 141px;
+    background-color: lemonchiffon;
+    border-width: 5px;
+    border-color: darkcyan;
+    border-style: solid;
+    margin: 5px;
+    box-sizing: border-box;
+    border-left-color: lawngreen;
+    border-left-width: 7px;
+    padding: 14px;
+}
+#d2 {
+    width: 414px;
+    height: 141px;
+    background-color: lightgreen;
+    border-width: 5px;
+    border-color: darkmagenta;
+    border-style: dotted;
+    margin: 5px;
+    box-sizing: border-box;
+    border-right-style: inset;
+    border-right-width: 7px;
+    border-right-color: deepskyblue;
+    padding: 14px;
+}
+#d3 {
+    width: 414px;
+    height: 141px;
+    background-color: lightskyblue;
+    border-width: 5px;
+    border-color: darkred;
+    border-style: dashed;
+    margin: 5px;
+    box-sizing: border-box;
+    border-top-width: 7px;
+    border-top-style: solid;
+    border-top-color: hotpink;
+    padding: 14px;
+    
+}
+#d4 {
+    width: 414px;
+    height: 141px;
+    background-color: khaki;
+    margin: 7px;
+    border: 5px dotted red;
+    border-left-style: ridge;
+    border-radius: 14px;
+    padding: 14px;
+}
+#box {
+    font-size: 41px;
+    width: 141px;
+    height: 141px;
+    margin: 14px;
+    background-color: springgreen;
+    padding-top: 41px;
+    padding-left: 41px;
+    border: 5px solid wheat;
+    box-sizing: border-box;
+    border-radius: 50%;
+}
+button {
+    padding: 5px 14px;
+    background-color: tomato;
+    color: white;
+    font-style: oblique;
+    font-size: 14px;
+}
+button:hover {
+    background-color: yellow;
+    color: teal;
+    font-size: 41px;
+}

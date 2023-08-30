@@ -1,0 +1,12 @@
+#tag {
+    color: teal;
+}
+h1,h2 {
+    color: lightcoral;
+}
+form {
+    color: lightseagreen;
+}
+button, input {
+    color: inherit;
+}

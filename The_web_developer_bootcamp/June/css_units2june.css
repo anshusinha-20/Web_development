@@ -1,0 +1,16 @@
+section {
+    background-color: lightblue;
+    width: 414px;
+    height: 414px;
+}
+div {
+    background-color: oldlace;
+    width: 30%;
+    height: 50%;
+}
+article {
+    font-size: 14px;
+}
+h2 {
+    font-size: 2em;
+}

@@ -1,0 +1,29 @@
+div {
+    width:141px;
+    height:141px;
+    background-color:teal;
+    margin-right: 7px;
+    border: 5px black solid;
+    display: inline-block;
+}
+#second {
+    background-color: turquoise;
+}
+#static #second {
+    position: static;
+    top: 141px;
+}
+#relative #second {
+    position: relative;
+    top: 141px;
+}
+#absolute #second {
+    position: absolute;
+    top: 50px;
+    right: 50px;
+}
+#fixed #second {
+    position: fixed;
+    top: 0px;
+    right: 0px;
+}
